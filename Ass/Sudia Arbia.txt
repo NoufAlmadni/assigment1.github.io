@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Kingdom of Saudi Arabia</title>
+
+</head>
+
+<body>
+ <h1> Kingdom of Saudi Arabia (KSA), is a country in West Asia.
+ </h1>
+  <h2>The Kingdom of Saudi Arabia was founded in 1932 by King Abdulaziz (known as Ibn Saud in the West). He united the four regions into a single state through a series of conquests beginning in 1902  </h2>
+  <h3>Saudi Arabia defines itself as a sovereign Arab Islamic state with Islam as its official religion and Arabic as its official language</h3>
+  <h4>The most important landmarks in the Kingdom of Saudi Arabia:</h4>
+  
+    <ol>
+    <li><b>The Mosque of the Prophet Mohammed</b> </li>
+    <li><b> Al-Masjid Al-Ḥarām</b></li>
+    <li><b>The old city of Jeddah</b></li>
+      <li><b>Wadi Ashar in Al-'Ula</b></li> 
+  </ol>
+      
+   <img src="imge/medina.jpg" alt="The Mosque of the Prophet   Mohammed" width="250" height="150">
+  
+  <img src="imge/makkah.jpg" alt="Al-Masjid Al-Haram" width="250" height="150">
+  <img src="imge/jeddah.jpg" alt="Old City" width="250" height="150">
+  <img src="imge/Alula.jpg" alt="Wadi Ashar" width="250" height="150">
+  <h3><strong>Saudi Arabia is considered both a regional and middle power. The Saudi economy is the largest in the Middle East; the world's eighteenth-largest economy by nominal GDP and the seventeenth largest by PPP. As a country with a very high Human Development Index,[36] it offers a tuition-free university education, no personal income tax, and a free universal health care system. </strong></h3>
+  <h4><b>You can read more about my great country from the link below</b></h4>
+  <a href="https://en.wikipedia.org/wiki/Saudi_Arabia#Administrative_divisions">Saudi Arabia</a>
+
+</body>
+
+</html>
